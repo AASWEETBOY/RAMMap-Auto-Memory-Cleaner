@@ -1,0 +1,7 @@
+# Runtime logs (machine-specific, do not commit)
+*.log
+
+# Third-party binary — download from Microsoft, do not redistribute.
+# https://learn.microsoft.com/sysinternals/downloads/rammap
+RAMMap.exe
+RAMMap64.exe
