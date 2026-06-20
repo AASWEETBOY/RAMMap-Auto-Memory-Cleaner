@@ -95,5 +95,8 @@ verify it yourself with `Get-FileHash <file> -Algorithm SHA256`:
 This project is **not affiliated with Microsoft or Sysinternals**. RAMMap is a
 Microsoft tool distributed under its own license; download it only from the
 official link above and do not redistribute the binary. These scripts are
-provided **as-is, without warranty of any kind**. Add a `LICENSE` file of your
-choice before publishing.
+provided **as-is, without warranty of any kind**.
+
+## Contributors
+1. Deepseek v4 pro/flash
+2. Claude Opus 4.8
