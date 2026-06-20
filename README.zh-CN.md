@@ -88,5 +88,8 @@ schtasks /delete /tn "MemoryCleaner" /f
 
 本项目**与微软及 Sysinternals 无任何隶属关系**。RAMMap 是微软的工具，遵循其
 自身的许可协议，请仅从上方官方链接下载，且不要再分发该二进制文件。这些脚本按
-**“原样”提供，不附带任何形式的担保**。开源发布前请自行添加一个 `LICENSE`
-许可文件。
+**“原样”提供，不附带任何形式的担保**。
+
+## 贡献者
+1. Deepseek v4 pro/flash
+2. Claude Opus 4.8
